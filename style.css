@@ -12,3 +12,8 @@
     border-radius: 20px;
     position:relative;
 }
+.titulo{
+    background-color: blueviolet;
+    border-style:solid;
+    text-align: center;
+}
