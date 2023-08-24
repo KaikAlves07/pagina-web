@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(151, 149, 149);
+}
+.tabela{
+    text-align:justify;
+    background-color: blueviolet;
+    padding: auto;
+    border-radius: 5px;
+    border:10px;
+}
+.imagem{
+    border-radius: 20px;
+    position:relative;
+}
